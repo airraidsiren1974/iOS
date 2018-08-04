@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='types'/>
+        <page name='variables and constants'/>
+        <page name='Operators'/>
+        <page name='Arrays'/>
+        <page name='Dictionaries'/>
+        <page name='loops'/>
+        <page name='Logical Operators'/>
+    </pages>
+</playground>
